@@ -1,1 +1,2 @@
-# Water-Quality-Analysis-and-Complaint-Management-System
+/mvnw text eol=lf
+*.cmd text eol=crlf
